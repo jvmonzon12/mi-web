@@ -1,0 +1,29 @@
+.titulo{
+    font-size: 5rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.texto{
+    font-size: 5rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.btn.px{
+    font-size: 600px;
+}
+
+.btn.px{
+    font-size: 5rem;
+}
+html{
+    font-size: 5rem;
+}
+
+@media ( min-width: 600px){
+    htmml{
+        font-size: 100%;
+    }
+}
